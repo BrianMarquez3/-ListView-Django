@@ -20,7 +20,7 @@
   </a>
   
 ![ListView-Django](./images/listview.png)
-![c++](./images/c++.jpg)
+
 _Postgres_
 
 ```
