@@ -1,6 +1,24 @@
 ## ListView Django 
 
-![django](../images/listview.png)
+<p align="center">
+  
+  <a href="https://github.com/BrianMarquez3/ListView-Django/tags">
+    <img src="https://img.shields.io/github/tag/BrianMarquez3/ListView-Django.svg?label=version&style=flat" alt="Version">
+  </a>
+  <a href="https://github.com/BrianMarquez3/ListView-Django/stargazers">
+    <img src="https://img.shields.io/github/stars/BrianMarquez3/ListView-Django.svg?style=flat" alt="Stars">
+  </a>
+  <a href="https://github.com/BrianMarquez3/ListView-Django/network">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3/ListView-Django.svg?style=flat" alt="Forks">
+  </a>
+  <a href="https://github.com/BrianMarquez3/ListView-Django/network">
+    <img src="https://img.shields.io/badge/coverage-80%25-yellowgreen">
+  </a>
+   </a>
+   <a href="https://github.com/BrianMarquez3/ListView-Django/network">
+    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
+  </a>
+![django](images/listview.png)
 
 
 
