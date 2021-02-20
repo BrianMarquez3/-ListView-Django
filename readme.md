@@ -19,11 +19,8 @@
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a>
   
-  
-![django](images/listview.png)
-
-
-
+![ListView-Django](./images/listview.png)
+![c++](./images/c++.jpg)
 _Postgres_
 
 ```
